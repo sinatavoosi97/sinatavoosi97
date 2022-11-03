@@ -20,9 +20,11 @@
 
 
 
-<!-- ### 👷 About me :  -->
+### 👷 About me : 
 
+I'm a student in structural engineering major from Iran ;moreover, I'm interested in developing civil engineering's software like ETABS and things like that.
 
+As a civil engineer ,I enjoy programming,writing,solving problems; in addition, I love taeching my skills to others.  
 
 
 
