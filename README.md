@@ -12,9 +12,9 @@
 </h1>
 
 
-
+<h1 id="header" align="center">
 <img  src="https://komarev.com/ghpvc/?username=sinatavoosi97&style=flat-square&color=blue" alt=""/>
-
+</h1>
 
 
 
