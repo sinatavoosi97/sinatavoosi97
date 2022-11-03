@@ -57,20 +57,23 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
 </div>
 
 
-<!-- 
-### :fire: My Stats : -->
+### :fire: My Stats :
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=sinatavoosi97&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sinatavoosi97&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=sinatavoosi97&show_icons=true" />
+</picture>
 
 
 
-<!-- ### 👋 Hi, I’m Sina Tavoosi
- -->
 
-
-<!-- 
-- 👀 I’m interested in programming
-- 
-- 🌱 I’m currently learning Machine Learning in Structural engineering major.
-- -->
 
 <!---
 sinatavoosi97/sinatavoosi97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
