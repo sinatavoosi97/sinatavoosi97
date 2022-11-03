@@ -1,9 +1,20 @@
-### 👋 Hi, I’m Sina Tavoosi
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+</div>
 
 
 
+<!-- ### 👋 Hi, I’m Sina Tavoosi
+ -->
 
-**Glad to see you here!**
+
+<!-- 
+**Glad to see you here!** -->
+
+
+
 
 
 <!-- > Text that is a quote
