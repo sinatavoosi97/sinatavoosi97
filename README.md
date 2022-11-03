@@ -19,7 +19,6 @@
 </h1>
 
 
-
 ### 👷 About me : 
 
 I'm a student in structural engineering major from Iran ;moreover, I'm interested in developing civil engineering's software like ETABS and things like that.
@@ -27,6 +26,11 @@ I'm a student in structural engineering major from Iran ;moreover, I'm intereste
 As a civil engineer ,I enjoy programming,writing,solving problems; in addition, I love taeching my skills to others.  
 
 
+### 👨‍💼 Talking about Personal Stuffs :
+
+
+- 👨🏾‍💻 I’m currently learning Machine Learning in Structural engineering major.
+- 
 
 
 
