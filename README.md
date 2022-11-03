@@ -61,7 +61,7 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=sinatavoosi97&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=sinatavoosi97&show_icons=true&theme=light"
   media="(prefers-color-scheme: dark)"
 />
 <source
