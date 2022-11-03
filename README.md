@@ -72,6 +72,9 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
 </picture>
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinatavoosi97"/>
+
+
 
 
 
