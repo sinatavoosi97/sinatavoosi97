@@ -4,17 +4,24 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
 
-
 <h1 id="header" align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
 <h1 id="header" align="center">
 <img  src="https://komarev.com/ghpvc/?username=sinatavoosi97&style=flat-square&color=blue" alt=""/>
 </h1>
+
+**Contact me :**
+
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+
+
+
 
 
 
