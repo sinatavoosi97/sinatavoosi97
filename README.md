@@ -14,9 +14,10 @@
 <img  src="https://komarev.com/ghpvc/?username=sinatavoosi97&style=flat-square&color=blue" alt=""/>
 </h1>
 
+
 **Contact me :**
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
