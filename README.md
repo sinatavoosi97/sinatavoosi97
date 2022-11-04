@@ -1,5 +1,4 @@
-
-  https://user-images.githubusercontent.com/110530257/200029627-b322684c-046b-458b-9a50-c95f587b1624.mp4
+   https://user-images.githubusercontent.com/110530257/200029627-b322684c-046b-458b-9a50-c95f587b1624.mp4
 
 
 
@@ -36,7 +35,10 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
 
 
 - 👨🏾‍💻 I’m currently learning Machine Learning in Structural engineering major.
-- 💌 Ask me about anything ,I am happy to help
+- 💌 Ask me about anything ,I am happy to help <div id="header" align="center">
+
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+</div>
 
 
 
@@ -45,10 +47,6 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
 
 
