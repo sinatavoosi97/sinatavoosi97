@@ -39,10 +39,9 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-
 </div>
 
-
+jupyter notebook
 
 ### 📫 How to reach me : 
 
@@ -53,9 +52,8 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
   </a>
   <a href="https://www.sinatavoosi76@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  </a> 
 </div>
-
 
 ### :fire: My Stats :
 
