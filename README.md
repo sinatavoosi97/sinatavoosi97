@@ -37,7 +37,7 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
 ### 👨‍💼 Talking about Personal Stuffs :
 
 
-- 👨🏾‍💻 I’m currently learning Machine Learning in Structural engineering major.
+- 👨🏾‍💻 I’m currently learning Machine learning in Structural engineering major.
 - 💌 Ask me about anything ,I am happy to help <div id="header" align="center">
 
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
