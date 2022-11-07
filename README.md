@@ -1,4 +1,4 @@
-<!--    https://user-images.githubusercontent.com/110530257/200029627-b322684c-046b-458b-9a50-c95f587b1624.mp4 -->
+
 
 <div id="header" align="center">
   <video src="https://user-images.githubusercontent.com/110530257/200029627-b322684c-046b-458b-9a50-c95f587b1624.mp4" />
@@ -6,12 +6,6 @@
 
 
 
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
-</div>
- -->
- 
- 
 
 <h1 id="header" align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
