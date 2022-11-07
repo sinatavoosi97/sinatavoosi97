@@ -5,6 +5,8 @@
 </div>
 
 
+
+
 <h1 id="header" align="center">
   <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="50px"/>
   Hi there,I'm Sina Tavoosi
@@ -48,7 +50,7 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sina-tavoosi-785627156">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://user-images.githubusercontent.com/110530257/200366102-236ac5a6-d209-459c-902f-3317b95397f5.png" alt="LinkedIn Badge" width="40"/>
     
   </a>
   <a href="https://www.sinatavoosi76@gmail.com">
