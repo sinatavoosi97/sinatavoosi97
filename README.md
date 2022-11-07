@@ -5,14 +5,11 @@
 </div>
 
 
-
-
 <h1 id="header" align="center">
   <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="50px"/>
   Hi there,I'm Sina Tavoosi
   <img src="https://media.giphy.com/media/mr1Y20DOOU1awBRjiP/giphy.gif" width="45px"/>
 </h1>
-
 
 
 <h1 id="header" align="center">
@@ -38,7 +35,6 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
 </div>
 
 
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -47,7 +43,6 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
-
 
 ### 📫 How to reach me : 
 
@@ -78,7 +73,7 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinatavoosi97"/>
 
-
+<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" />
 
 
 
