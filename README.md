@@ -8,9 +8,9 @@
 
 
 <h1 id="header" align="center">
-  <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="70px"/>
+  <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="50px"/>
   Hi there,I'm Sina Tavoosi
-  <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="70px"/>
+  <img src="https://media.giphy.com/media/mr1Y20DOOU1awBRjiP/giphy.gif" width="45px"/>
 </h1>
 
 
