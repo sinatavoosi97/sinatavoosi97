@@ -1,12 +1,7 @@
 
-
 <div id="header" align="center">
   <video src="https://user-images.githubusercontent.com/110530257/200029627-b322684c-046b-458b-9a50-c95f587b1624.mp4" />
 </div>
-![318048_gmail_icon]()
-![437878_linkedin_bubble_circle_communication_gloss_icon]()
-
-
 
 
 <h1 id="header" align="center">
@@ -14,7 +9,6 @@
   Hi there,I'm Sina Tavoosi
   <img src="https://media.giphy.com/media/mr1Y20DOOU1awBRjiP/giphy.gif" width="45px"/>
 </h1>
-
 
 <h1 id="header" align="center">
 
