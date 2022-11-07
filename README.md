@@ -3,6 +3,8 @@
 <div id="header" align="center">
   <video src="https://user-images.githubusercontent.com/110530257/200029627-b322684c-046b-458b-9a50-c95f587b1624.mp4" />
 </div>
+![318048_gmail_icon]()
+![437878_linkedin_bubble_circle_communication_gloss_icon]()
 
 
 
@@ -50,11 +52,11 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sina-tavoosi-785627156">
-    <img src="https://user-images.githubusercontent.com/110530257/200366102-236ac5a6-d209-459c-902f-3317b95397f5.png" alt="LinkedIn Badge" width="40"/>
+    <img src="https://user-images.githubusercontent.com/110530257/200368359-83ed7da8-c52b-4651-b635-b9dc7f915e4b.png" alt="LinkedIn Badge" width="40"/>
     
   </a>
   <a href="https://www.sinatavoosi76@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://user-images.githubusercontent.com/110530257/200368340-f933ba2b-bad5-449e-8420-50d37fd5946f.png" alt="Gmail Badge" width="40"/>
   </a> 
   
                                     
