@@ -78,26 +78,12 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinatavoosi97"/>
 
+<img src="https://raw.githubusercontent.com/sinatavoosi97/YOUR_REPO/main/snake.svg" alt="Snake Animation" />
 
 
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20" width="400" height="50">
-  <circle cx="10" cy="10" r="5" fill="green">
-    <animate attributeName="cx" from="10" to="90" dur="2s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="30" cy="10" r="5" fill="green">
-    <animate attributeName="cx" from="10" to="90" dur="2s" begin="0.2s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="50" cy="10" r="5" fill="green">
-    <animate attributeName="cx" from="10" to="90" dur="2s" begin="0.4s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="70" cy="10" r="5" fill="green">
-    <animate attributeName="cx" from="10" to="90" dur="2s" begin="0.6s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="90" cy="10" r="5" fill="green">
-    <animate attributeName="cx" from="10" to="90" dur="2s" begin="0.8s" repeatCount="indefinite" />
-  </circle>
-</svg>
+
+
 
 
 
