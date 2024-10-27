@@ -78,7 +78,7 @@ As a civil engineer ,I enjoy programming,writing,solving problems; in addition, 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinatavoosi97"/>
 
-<img src="https://raw.githubusercontent.com/sinatavoosi97/YOUR_REPO/main/snake.svg" alt="Snake Animation" />
+<img src="https://github.com/Platane/snk.git"/>
 
 
 
